@@ -23,4 +23,5 @@
     * [第一节 紧密相关的同步化队列](concurrent_resource_queue/closely_related_synchronization_queue.md)
 * [其他](other/README.md)
     * [多核多处理器架构软件设计的注意事项](other/Multi-core_multiprocessor.md)
+    * [Java 8并发工具包漫游指南](other/java_8_concurrent_tool.md)
 
